@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="294" viewBox="0 0 860 294">
+<rect width="860" height="294" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M12 0 H848 Q860 0 860 12 V38 H0 V12 Q0 0 12 0Z" fill="#161b22"/>
+<circle cx="20" cy="19" r="5" fill="#ff5f56"/><circle cx="38" cy="19" r="5" fill="#ffbd2e"/><circle cx="56" cy="19" r="5" fill="#27c93f"/>
+<text x="78" y="23" fill="#8b949e" font-size="11" font-family="monospace">adnanalqham — developer profile</text>
+<text x="24" y="46" fill="#8b949e" font-size="10" font-family="monospace">$ neofetch --profile</text>
+<g opacity="0">
+<text x="38" y="59" fill="#39d353" font-size="13" font-family="monospace">USER</text>
+<text x="174" y="59" fill="#c9d1d9" font-size="13" font-family="monospace">adnanalqham</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.3s" fill="freeze"/>
+</g><g opacity="0">
+<text x="38" y="86" fill="#39d353" font-size="13" font-family="monospace">ROLE</text>
+<text x="174" y="86" fill="#c9d1d9" font-size="13" font-family="monospace">Software Developer / Digital Marketing Specialist</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.12s" dur="0.3s" fill="freeze"/>
+</g><g opacity="0">
+<text x="38" y="113" fill="#39d353" font-size="13" font-family="monospace">BASE</text>
+<text x="174" y="113" fill="#c9d1d9" font-size="13" font-family="monospace">Sana'a, Yemen</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.3s" fill="freeze"/>
+</g><g opacity="0">
+<text x="38" y="140" fill="#39d353" font-size="13" font-family="monospace">FOCUS</text>
+<text x="174" y="140" fill="#c9d1d9" font-size="13" font-family="monospace">Web apps · Mobile apps · Automation</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.36s" dur="0.3s" fill="freeze"/>
+</g><g opacity="0">
+<text x="38" y="167" fill="#39d353" font-size="13" font-family="monospace">STACK</text>
+<text x="174" y="167" fill="#c9d1d9" font-size="13" font-family="monospace">Flutter · Expo / React Native · TypeScript · NestJS</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.3s" fill="freeze"/>
+</g><g opacity="0">
+<text x="38" y="194" fill="#39d353" font-size="13" font-family="monospace">DATA</text>
+<text x="174" y="194" fill="#c9d1d9" font-size="13" font-family="monospace">PostgreSQL · Prisma · SQLite</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.3s" fill="freeze"/>
+</g><g opacity="0">
+<text x="38" y="221" fill="#39d353" font-size="13" font-family="monospace">BUILDS</text>
+<text x="174" y="221" fill="#c9d1d9" font-size="13" font-family="monospace">Aoun · Hotel systems · YouTube Downloader</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.72s" dur="0.3s" fill="freeze"/>
+</g><g opacity="0">
+<text x="38" y="248" fill="#39d353" font-size="13" font-family="monospace">NOW</text>
+<text x="174" y="248" fill="#c9d1d9" font-size="13" font-family="monospace">Building practical products and workflows</text>
+<animate attributeName="opacity" from="0" to="1" begin="0.84s" dur="0.3s" fill="freeze"/>
+</g>
+</svg>
